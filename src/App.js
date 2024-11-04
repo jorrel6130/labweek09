@@ -16,7 +16,7 @@ function App() {
         <h3>React JS Programming Week09 Lab exercise</h3>
         <StudentID studentID="101329925"/>
         <Name firstName="Jorrel" lastName="Tigbayan"/>
-        <p className="GBC">Test CSS Object</p>
+        <p className="GBC">George Brown College, Toronto</p>
       </header>
     </div>
 
