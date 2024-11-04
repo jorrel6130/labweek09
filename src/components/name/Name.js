@@ -1,3 +1,5 @@
+// Jorrel Tigbayan
+// 101329925
 import './Name.css';
 
 function Name(props) {
